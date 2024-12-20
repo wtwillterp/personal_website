@@ -21,7 +21,7 @@ listing:
   fields:  [image, description, categories, date]
 ---
 
-I am a data analyst who transforms disparate and complex data sources into compelling visual narratives that empower decision-makers to take data-driven actions. I'm working on developing automated reporting solutions that streamline KPI tracking, enabling organizations to maintain real-time visibility into their critical performance metrics
+I am a data analyst who enjoys transforming disparate and complex data sources into compelling visual narratives that empower decision-makers to make data-driven actions. I'm working on developing automated reporting solutions that streamline KPI tracking, enabling organizations to maintain real-time visibility into their critical performance metrics
 
 ## Education
 
