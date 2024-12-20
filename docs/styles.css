@@ -1,0 +1,23 @@
+/* Override the default grid layout with more specific selectors */
+.quarto-about-trestles .about-entity {
+    display: grid !important;
+    grid-template-columns: 22% 78% !important;
+    gap: 2rem !important;
+}
+
+/* Override any max-width constraints on the grid container */
+#quarto-content .quarto-about-trestles {
+    max-width: 100%;
+}
+
+/* Ensure the content fills the wider right column */
+.about-entity .about-contents {
+    max-width: 100% !important;
+    width: 100% !important;
+}
+
+/* Maintain image size in narrower left column */
+.about-image {
+    width: 100% !important;
+    max-width: 100% !important;
+}

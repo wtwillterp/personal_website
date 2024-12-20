@@ -1,0 +1,8 @@
+- title: Automated Budget Analytic Report PDF
+  path: https://example.com/house-prices
+  # Photo by Breno Assis on Unsplash https://unsplash.com/photos/aerial-photography-of-rural-r3WAWU5Fi5Q 
+  image: images/budget_icon.png
+  description: >
+    Automated MoM budget analytic report.
+  categories: [Data Analysis, Automation, R, Quarto, Typst, GoogleSheets]
+  date: 2024-12-21

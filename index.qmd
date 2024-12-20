@@ -1,0 +1,35 @@
+---
+title: "William Terpstra"
+subtitle: "Data Analyst"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: trestles
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/wtwillterp
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/william-terpstra/
+listing:
+  contents: projects.yml
+  sort-ui: false
+  filter-ui: false
+  max-description-length: 200
+  fields:  [image, description, categories, date]
+---
+
+I am a data analyst who transforms disparate and complex data sources into compelling visual narratives that empower decision-makers to take data-driven actions. I'm working on developing automated reporting solutions that streamline KPI tracking, enabling organizations to maintain real-time visibility into their critical performance metrics
+
+## Education
+
+M.S. Data Science \| Merrimack College, MA \| 2020-2022 \
+Bachelor of Arts \| Bennington College, VT \| 2016-2020
+
+## Experience
+
+Data Analyst II \| IXIS \| September 2022 - present
+
+## Projects
