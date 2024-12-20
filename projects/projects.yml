@@ -4,5 +4,5 @@
   image: images/budget_icon.png
   description: >
     Automated MoM budget analytic report.
-  categories: [Data Analysis, Automation, R, Quarto, Typst, GoogleSheets]
+  categories: [R, Quarto, Typst, GoogleSheets, Automation]
   date: 2024-12-21
